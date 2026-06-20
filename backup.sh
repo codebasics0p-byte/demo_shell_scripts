@@ -2,7 +2,7 @@
 
 << info
 This shell script will take periodic backups
-
+and also we can use cron
 eg.
 ./backup.sh <source> <dest>
 info
